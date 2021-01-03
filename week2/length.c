@@ -5,7 +5,7 @@ int main(){
     scanf("%s", word);
     for(int i=0;i<100;i++){
         if(word[i] == '\0'){
-            printf("%d",i);
+            printf("%d\n",i);
             break;
         }
     }

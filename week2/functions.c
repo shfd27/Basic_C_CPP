@@ -27,6 +27,6 @@ int main(){
     printf("difference : %d\n",sub(x,y));
     printf("multiplication : %d\n",mul(x,y));
     printf("division : %lf\n",div(x,y));
-    printf("remainder : %d",mod(x,y));
+    printf("remainder : %d\n",mod(x,y));
     return 0;
 }

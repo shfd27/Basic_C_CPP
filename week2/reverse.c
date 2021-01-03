@@ -14,5 +14,6 @@ int main(){
     for(int i=0;i<5;i++){
         printf("%d ", *(parr+i));
     }
+    printf("\n");
     return 0;
 }

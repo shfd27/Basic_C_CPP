@@ -15,6 +15,6 @@ int main(){
         sum+=*(parr+i);
         printf("%lf ", *(parr+i));
     }
-    printf("\nsum : %lf", sum);
+    printf("\nsum : %lf\n", sum);
     return 0;
 }

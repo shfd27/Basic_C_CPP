@@ -18,6 +18,6 @@ int combination(int a, int b){
 int main(){
     int n, r;
     scanf("%d %d", &n, &r);
-    printf("%d", combination(n,r));
+    printf("%d\n", combination(n,r));
     return 0;
 }
